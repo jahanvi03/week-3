@@ -116,6 +116,8 @@ section {
 .nav-brand {
   color: black;
   font-size: 1.5em;
+  width: 30%;
+  text-align: center;	
 }
 
 #nav-list {
@@ -133,4 +135,8 @@ hr {
 
 .active {
   border: 1px solid #000000;
+}	
+
+.icon-bar:hover {
+  background-color: white;
 }	
