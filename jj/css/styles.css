@@ -123,10 +123,10 @@ section {
 }
 
 hr {
-  border-color: white;
+  border-color: black;
 }
 
 .item {
-  color: white;
+  color: black;
   font-size: 1.2em;
 }
