@@ -130,3 +130,7 @@ hr {
   color: black;
   font-size: 1.2em;
 }
+
+.active {
+  background-color: white;
+}	
